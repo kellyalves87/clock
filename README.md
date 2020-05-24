@@ -1,4 +1,4 @@
-# clock
+# Clock
 
 Relógio digital feito em HTML, Javascript e CSS
 
