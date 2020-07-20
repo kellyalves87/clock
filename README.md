@@ -8,6 +8,10 @@ Relógio digital.
 - Vanilla Javascript
 - CSS3
 
-# Github pages
+## Github pages
 
 Acesse: https://kellyalves87.github.io/clock/
+
+## Autor
+
+Kelly Alves
