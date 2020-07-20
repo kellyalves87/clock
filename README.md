@@ -1,6 +1,12 @@
 # Clock
 
-Relógio digital feito em HTML, Javascript e CSS
+Relógio digital.
+
+## Linguagens utilizadas
+
+- HTML3
+- Vanilla Javascript
+- CSS3
 
 # Github pages
 
